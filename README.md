@@ -1,0 +1,1 @@
+# Automated-Image-Defect-Detection-with-ResNet18
